@@ -24,11 +24,6 @@
 🤖 **AI/ML:** Langchain, AstraDB, Redis (Upstash), Gemini AI, TensorFlow, PyTorch  
 
 ---
-
-Sure! Here's your **Experience** section in the same format:  
-
----
-
 ## **💼 About**  
 
 With a solid foundation in Computer Science from the University at Buffalo, I have embarked on a dynamic journey in software engineering, blending academic excellence with hands-on industry experience. My passion for technology ignited during my master's program, where I immersed myself in the complexities of database systems, operating systems, and networking. These projects weren't just academic exercises they were stepping stones that helped me develop a deep understanding of system architecture and performance optimization.
