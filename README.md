@@ -47,9 +47,8 @@ For me, software engineering is more than just a career it’s a passion that dr
 
 ### **💡 Chatbot Portfolio**  
 🔹 Developed an **AI-powered interactive chatbot** for my portfolio  
-🔹 Utilized **Langchain, OpenAI API, AstraDB for vector storage**  
-🔹 Supports **resume Q&A and project recommendations**  
-🔗 [GitHub Repo](https://github.com/sunny/chatbot-portfolio) | [Live Demo](https://sunny.dev/chatbot)  
+🔹 Utilized **Langchain, Gemini API, AstraDB for vector storage, And Redis As Cache**  
+🔹 Supports **resume Q&A**   
 
 ### **🔐 Advanced DevSecOps Pipeline**  
 🔹 Designed a **Three-Tier AWS EKS architecture** with **Terraform**  
