@@ -7,7 +7,7 @@
 🔹 Experienced in **React, Next.js, Java, Spring Boot, Supabase, Docker, and more!**  
 
 📫 **Get in Touch:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-sunny-aashlesh-togarucheeti-336309297/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-sunny-togarucheeti-336309297/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=react)](https://sai-sunny-portfolio.vercel.app/)  
 [![GitHub](https://img.shields.io/github/followers/sunny?style=social)](https://github.com/sunnyashlesh16)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sunnyashlesh26@gmail.com)  
